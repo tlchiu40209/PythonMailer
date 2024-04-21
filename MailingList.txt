@@ -1,0 +1,2 @@
+thismail@example.com
+thatmail@example.com
